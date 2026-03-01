@@ -7,7 +7,7 @@
 <img align="right" alt="Coading" width="400" src="https://github.com/ijaved85/ijaved85/blob/main/computer.gif">
 <br><br>
 
-- 📕 I’m currently completing my graduation in [SRIPAT SINGH COLLEGE](https://www.sripatsinghcollege.edu.in/)
+- 📕 I’m currently completing my graduation in [RADIANT GROUP OF INSTITUTIONS]
 
 - 👨‍💻 All of my projects are available at [https://github.com/ijaved85](https://github.com/ijaved85)
 
